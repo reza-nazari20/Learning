@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Quantifiers\bin\Debug\net5.0\Quantifiers.exe
+E:\Learn\Learn_Linq\Quantifiers\bin\Debug\net5.0\Quantifiers.deps.json
+E:\Learn\Learn_Linq\Quantifiers\bin\Debug\net5.0\Quantifiers.runtimeconfig.json
+E:\Learn\Learn_Linq\Quantifiers\bin\Debug\net5.0\Quantifiers.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Quantifiers\bin\Debug\net5.0\Quantifiers.dll
+E:\Learn\Learn_Linq\Quantifiers\bin\Debug\net5.0\Quantifiers.pdb
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\Quantifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\Quantifiers.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\Quantifiers.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\Quantifiers.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\Quantifiers.dll
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\refint\Quantifiers.dll
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\Quantifiers.pdb
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\Quantifiers.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Quantifiers\obj\Debug\net5.0\ref\Quantifiers.dll

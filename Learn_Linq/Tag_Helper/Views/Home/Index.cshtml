@@ -1,0 +1,83 @@
+﻿@model User
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* ریزور *@
+@* @Html.LabelFor(p=> p.Name)
+@Html.TextBoxFor(p => p.Name) *@
+
+<hr />
+
+@* تگ هلپر با کلمه کلیدی *@ 
+@* <th:label asp-for="Name"></th:label> *@
+@* تگ هلپر بدون استفاده از کلمه کلیدی *@
+@* <label asp-for="Name"></label>
+<input asp-for="Name" /> *@
+
+<form asp-controller="Home" asp-action="Index" method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name"/>
+
+    <hr />
+
+    <label asp-for="LastName"></label>
+    <input asp-for="LastName" />
+
+    <hr />
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span>
+
+     <hr />
+
+    <label asp-for="Gender"></label>
+    <input asp-for="Gender"/>
+    
+     <hr />
+
+    <label asp-for="Age"></label>
+    <input asp-for="Age"/>
+    <span asp-validation-for="Age"></span>
+
+     <hr />
+
+    <label asp-for="Password"></label>
+    <input asp-for="Password" />
+
+     <hr />
+
+    <label asp-for="WebSite"></label>
+    <input asp-for="WebSite" />
+
+    <hr />
+
+    <label asp-for="Address.HomeAddress"></label>
+    <input asp-for="Address.HomeAddress" />
+
+    <hr />
+
+    <label asp-for="Address.WorkAddress"></label>
+    <input asp-for="Address.WorkAddress" />
+
+    <button asp-route="indexroute"> ارسال </button>
+</form>
+
+@* <form asp-route="indexroute" method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name"/>
+</form> *@
+
+
+@* <form method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name"/>
+    <button asp-controller="Home" asp-action="Index"> ارسال </button>
+</form> *@
+
+@* <form method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name"/>
+    <button asp-route="indexroute"> ارسال </button>
+</form> *@

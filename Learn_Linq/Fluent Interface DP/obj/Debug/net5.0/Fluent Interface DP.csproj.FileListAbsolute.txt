@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Fluent Interface DP\bin\Debug\net5.0\Fluent Interface DP.exe
+E:\Learn\Learn_Linq\Fluent Interface DP\bin\Debug\net5.0\Fluent Interface DP.deps.json
+E:\Learn\Learn_Linq\Fluent Interface DP\bin\Debug\net5.0\Fluent Interface DP.runtimeconfig.json
+E:\Learn\Learn_Linq\Fluent Interface DP\bin\Debug\net5.0\Fluent Interface DP.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Fluent Interface DP\bin\Debug\net5.0\Fluent Interface DP.dll
+E:\Learn\Learn_Linq\Fluent Interface DP\bin\Debug\net5.0\Fluent Interface DP.pdb
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\Fluent Interface DP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\Fluent Interface DP.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\Fluent Interface DP.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\Fluent Interface DP.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\Fluent Interface DP.dll
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\refint\Fluent Interface DP.dll
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\Fluent Interface DP.pdb
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\Fluent Interface DP.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Fluent Interface DP\obj\Debug\net5.0\ref\Fluent Interface DP.dll

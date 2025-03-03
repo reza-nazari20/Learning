@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Partitioning\bin\Debug\net5.0\Partitioning.exe
+E:\Learn\Learn_Linq\Partitioning\bin\Debug\net5.0\Partitioning.deps.json
+E:\Learn\Learn_Linq\Partitioning\bin\Debug\net5.0\Partitioning.runtimeconfig.json
+E:\Learn\Learn_Linq\Partitioning\bin\Debug\net5.0\Partitioning.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Partitioning\bin\Debug\net5.0\Partitioning.dll
+E:\Learn\Learn_Linq\Partitioning\bin\Debug\net5.0\Partitioning.pdb
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\Partitioning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\Partitioning.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\Partitioning.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\Partitioning.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\Partitioning.dll
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\refint\Partitioning.dll
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\Partitioning.pdb
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\Partitioning.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Partitioning\obj\Debug\net5.0\ref\Partitioning.dll

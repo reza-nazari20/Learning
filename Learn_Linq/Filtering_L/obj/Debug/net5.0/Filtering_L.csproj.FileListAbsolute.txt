@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Filtering_L\bin\Debug\net5.0\Filtering_L.exe
+E:\Learn\Learn_Linq\Filtering_L\bin\Debug\net5.0\Filtering_L.deps.json
+E:\Learn\Learn_Linq\Filtering_L\bin\Debug\net5.0\Filtering_L.runtimeconfig.json
+E:\Learn\Learn_Linq\Filtering_L\bin\Debug\net5.0\Filtering_L.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Filtering_L\bin\Debug\net5.0\Filtering_L.dll
+E:\Learn\Learn_Linq\Filtering_L\bin\Debug\net5.0\Filtering_L.pdb
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\Filtering_L.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\Filtering_L.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\Filtering_L.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\Filtering_L.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\Filtering_L.dll
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\refint\Filtering_L.dll
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\Filtering_L.pdb
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\Filtering_L.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Filtering_L\obj\Debug\net5.0\ref\Filtering_L.dll

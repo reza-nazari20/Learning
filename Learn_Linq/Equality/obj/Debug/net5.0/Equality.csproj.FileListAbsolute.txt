@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Equality\bin\Debug\net5.0\Equality.exe
+E:\Learn\Learn_Linq\Equality\bin\Debug\net5.0\Equality.deps.json
+E:\Learn\Learn_Linq\Equality\bin\Debug\net5.0\Equality.runtimeconfig.json
+E:\Learn\Learn_Linq\Equality\bin\Debug\net5.0\Equality.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Equality\bin\Debug\net5.0\Equality.dll
+E:\Learn\Learn_Linq\Equality\bin\Debug\net5.0\Equality.pdb
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\Equality.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\Equality.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\Equality.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\Equality.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\Equality.dll
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\refint\Equality.dll
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\Equality.pdb
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\Equality.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Equality\obj\Debug\net5.0\ref\Equality.dll

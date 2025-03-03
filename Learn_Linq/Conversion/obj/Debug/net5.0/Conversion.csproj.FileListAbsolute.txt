@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Conversion\bin\Debug\net5.0\Conversion.exe
+E:\Learn\Learn_Linq\Conversion\bin\Debug\net5.0\Conversion.deps.json
+E:\Learn\Learn_Linq\Conversion\bin\Debug\net5.0\Conversion.runtimeconfig.json
+E:\Learn\Learn_Linq\Conversion\bin\Debug\net5.0\Conversion.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Conversion\bin\Debug\net5.0\Conversion.dll
+E:\Learn\Learn_Linq\Conversion\bin\Debug\net5.0\Conversion.pdb
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\Conversion.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\Conversion.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\Conversion.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\Conversion.dll
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\refint\Conversion.dll
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\Conversion.pdb
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\Conversion.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Conversion\obj\Debug\net5.0\ref\Conversion.dll

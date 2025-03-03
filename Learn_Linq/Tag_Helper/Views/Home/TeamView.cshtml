@@ -1,0 +1,19 @@
+﻿@model TeamViewModel
+
+@{
+    ViewData["Title"] = "TeamView";
+}
+
+<select asp-for="Team" asp-items="Model.Teams" class="form-control"></select>
+
+<br />
+
+<select asp-for="TeamEnum" asp-items="Html.GetEnumSelectList<TeamEnum>()" class="form-control"></select>
+
+<br />
+
+<select asp-for="Team" asp-items="Model.TeamOptionGroup" class="form-control"></select>
+
+<br />
+
+<select asp-for="TeamMltiple" asp-items="Model.TeamMltipleItem" class="form-control"></select>

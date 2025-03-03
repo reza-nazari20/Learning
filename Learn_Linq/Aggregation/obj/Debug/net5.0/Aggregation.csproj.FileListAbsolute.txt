@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Aggregation\bin\Debug\net5.0\Aggregation.exe
+E:\Learn\Learn_Linq\Aggregation\bin\Debug\net5.0\Aggregation.deps.json
+E:\Learn\Learn_Linq\Aggregation\bin\Debug\net5.0\Aggregation.runtimeconfig.json
+E:\Learn\Learn_Linq\Aggregation\bin\Debug\net5.0\Aggregation.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Aggregation\bin\Debug\net5.0\Aggregation.dll
+E:\Learn\Learn_Linq\Aggregation\bin\Debug\net5.0\Aggregation.pdb
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\Aggregation.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\Aggregation.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\Aggregation.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\Aggregation.dll
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\refint\Aggregation.dll
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\Aggregation.pdb
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\Aggregation.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Aggregation\obj\Debug\net5.0\ref\Aggregation.dll

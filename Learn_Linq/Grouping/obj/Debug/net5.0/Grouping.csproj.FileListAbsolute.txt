@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Grouping\bin\Debug\net5.0\Grouping.exe
+E:\Learn\Learn_Linq\Grouping\bin\Debug\net5.0\Grouping.deps.json
+E:\Learn\Learn_Linq\Grouping\bin\Debug\net5.0\Grouping.runtimeconfig.json
+E:\Learn\Learn_Linq\Grouping\bin\Debug\net5.0\Grouping.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Grouping\bin\Debug\net5.0\Grouping.dll
+E:\Learn\Learn_Linq\Grouping\bin\Debug\net5.0\Grouping.pdb
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\Grouping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\Grouping.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\Grouping.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\Grouping.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\Grouping.dll
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\refint\Grouping.dll
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\Grouping.pdb
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\Grouping.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Grouping\obj\Debug\net5.0\ref\Grouping.dll

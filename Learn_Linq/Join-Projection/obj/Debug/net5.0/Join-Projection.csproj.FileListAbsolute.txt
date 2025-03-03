@@ -1,0 +1,15 @@
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\Join-Projection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\Join-Projection.AssemblyInfoInputs.cache
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\Join-Projection.AssemblyInfo.cs
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\Join-Projection.csproj.CoreCompileInputs.cache
+E:\Learn\Learn_Linq\Join-Projection\bin\Debug\net5.0\Join-Projection.exe
+E:\Learn\Learn_Linq\Join-Projection\bin\Debug\net5.0\Join-Projection.deps.json
+E:\Learn\Learn_Linq\Join-Projection\bin\Debug\net5.0\Join-Projection.runtimeconfig.json
+E:\Learn\Learn_Linq\Join-Projection\bin\Debug\net5.0\Join-Projection.runtimeconfig.dev.json
+E:\Learn\Learn_Linq\Join-Projection\bin\Debug\net5.0\Join-Projection.dll
+E:\Learn\Learn_Linq\Join-Projection\bin\Debug\net5.0\Join-Projection.pdb
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\Join-Projection.dll
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\refint\Join-Projection.dll
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\Join-Projection.pdb
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\Join-Projection.genruntimeconfig.cache
+E:\Learn\Learn_Linq\Join-Projection\obj\Debug\net5.0\ref\Join-Projection.dll
